@@ -7,7 +7,7 @@
 * [BKCI 是什么？](overview/what-is-bkci.md)
 * [BKCI 组件](overview/components.md)
 * [5分钟读懂 BKCI 流水线](overview/learn-pipeline-in-5-min.md)
-* [BKCI 功能]()
+* [BKCI 功能](services/bkci-services.md)
   * [控制台](services/console.md)
   * [流水线](services/pipelines/README.md)
    * [流水线触发方式](services/pipelines/pipeline-triggers/README.md)
