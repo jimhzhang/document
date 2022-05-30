@@ -63,10 +63,10 @@
 
 ## 👉 BKCI 入门 <a href="#tutorials" id="tutorials"></a>
 
-* [BKCI 操作教程]()
-  * [创建你的第一条流水线](tutorials/create-first-pipeline.md)
-  * [关联你的第一个代码库](tutorials/link-first-repo.md)
-  * [为你的Git工程开启CI](tutorials/enable-git-ci.md)
+* [BKCI 操作教程](tutorials/usage/README.md)
+  * [创建你的第一条流水线](tutorials/usage/create-first-pipeline.md)
+  * [关联你的第一个代码库](tutorials/usage/link-first-repo.md)
+  * [为你的Git工程开启CI](tutorials/usage/enable-git-ci.md)
 * [示例](tutorials/examples/README.md)
   * [代码拉取+制品上传+制品下载](tutorials/examples/pull-upload-download.md)
   * [流水线触发方式使用](tutorials/examples/different-triggers.md)
