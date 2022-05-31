@@ -133,6 +133,7 @@
 
 * [客户案例](tutorials/case-study/README.md)
   * [呦尔哈--通过蓝盾提升CI/CD效率](tutorials/case-study/yorha.md)
+  * [永航--通过蓝盾实现CICD全自动化互通](tutorials/case-study/yonghang.md)
 
 
 ## 🤝 一起共建 BKCI <a href="#contribute" id="contribute"></a>
