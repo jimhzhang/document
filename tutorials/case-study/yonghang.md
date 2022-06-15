@@ -1,4 +1,4 @@
-# **永航--通过蓝盾实现CI/CD全自动化互通**
+# **永航--通过蓝鲸蓝盾实现跨环境CICD互通**
 
 ![](../../.gitbook/assets/image-casestady-yonghang1.png) 
 
