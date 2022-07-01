@@ -58,7 +58,7 @@
 ## 🚀 部署 BKCI <a href="#setup" id="setup"></a>
 
 * [BKCI 系统要求](setup/system-requirements/README.md)
-* [BKCI 硬件规格指南](setup/system-requirements/hardware-specifications.md)
+* [BKCI 硬件规格指南](setup/system-requirements/hardware.md)
 
 
 ## 📔 产品功能 <a href="#services" id="services"></a>
