@@ -123,6 +123,9 @@
   
 * [流水线插件](store/plugins/README.md)
   * [开发一个流水线插件](store/plugins/create-plugin/README.md)
+  * [插件开发案例](store/plugins/plugins-examples/README.md)
+    * [sendmsg插件的诞生]()
+  * [相关组件使用示例]()
     
     * [插件开发指引](store/plugins/create-plugin/plugin-dev-guide/README.md)
       * [Java 插件开发指引](store/plugins/create-plugin/plugin-dev-guide/java.md)
