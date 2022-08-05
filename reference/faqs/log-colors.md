@@ -14,7 +14,7 @@
 | \#\#\[group\] | 一个折叠的开始 |  |
 | \#\#\[endgroup\] | 一个折叠的结束 |  |
 
-**以Bash插件为例：**
+**以Bash插件为例：** <a name="1"></a>
 
 ```bash
 echo "##[command]whoami"
@@ -40,3 +40,9 @@ echo "##[endgroup]"
 
 ![](../../.gitbook/assets/image2020-1-9_21-59-12.png)
 
+
+
+
+
+
+[点击跳转](#1)
